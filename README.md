@@ -6,7 +6,7 @@ Setting Up
 =================
 - Git saves milestones of milestones.
 
-		git clone project"
+		git clone https://github.com/jeffreyjseaman/ios.git
 
 
 Deploying
